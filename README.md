@@ -3,10 +3,10 @@
 Neural style transfer is an interesting application of transfering the style of an art onto an image. We use deep learning to understand the characteristics of the artistic image, and then use it to transfer it to the image. Some inputs and their corresponding results are here (They are breathtaking)
 
 ## Inputs
-![inputs](nst.jpg)
+![inputs](nst.png)
 
 ## Results
-![results](results.jpg)
+![results](results.png)
 
 # How does this work?
 
