@@ -6,7 +6,7 @@ Neural style transfer is an interesting application of transfering the style of 
 ![inputs](nst.png)
 
 ## Results
-![results](results.png)
+![results](result.png)
 
 # How does this work?
 
